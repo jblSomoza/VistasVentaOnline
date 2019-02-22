@@ -1,0 +1,31 @@
+body {
+    display: inline-block;
+    background: #00AFF9 url(../image/image_wallpapers/ic_error404.jpg) center/cover no-repeat;
+    height: 100vh;
+    margin: 0;
+    color: white;
+  }
+  
+.contenedor h1 {
+    margin: .8em 3rem;
+    font: 4em Roboto;
+}
+
+.contenedor p {
+    display: inline-block;
+    margin: .2em 3rem;
+    font: 2em Roboto;
+}
+
+.contenedor input[Type="button"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: transparent;
+    color: white;
+    font-size: 18px;
+    border-radius: 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin: .2em 3rem;
+}
